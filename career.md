@@ -8,16 +8,16 @@ title: Chân dung nghề của tôi
 > Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
 
 ## Hướng tôi nhắm
+Lập trình viên Phát triển Game (Game Developer / Unity Game Programmer)
 
-…
 
-Vì sao: …
+Vì sao:Em đam mê tìm hiểu cơ chế hoạt động, logic cấu trúc lập trình và muốn trực tiếp sáng tạo ra các sản phẩm trò chơi tương tác có giá trị trải nghiệm cao.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
 
-| Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
+| Lớp 26DCSA1 |  Tin 1 (VNG Games) | Tin 2 (Gameloft) | Tin 3 (Amanotes) | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | … | … | … | chưa / một phần / rồi |
 | Kỹ năng | … | … | … | … |
