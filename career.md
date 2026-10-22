@@ -19,18 +19,18 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp 26DCSA1 |  Tin 1 (VNG Games) | Tin 2 (Gameloft) | Tin 3 (Amanotes) | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | C#, C++, OOP, cấu trúc dữ liệu & giải thuật… | …C++, OOP, Game Math, Vật lý game | C#, OOP, kiến trúc phần mềm, tư duy giải thuật… | chưa / một phần / rồi |
+| Kỹ năng | Lập trình Gameplay, tối ưu hóa bộ nhớ và hiệu năng… | Lập trình logic Game, quản lý bộ nhớ, Debug… | …Lập trình Unity, tối ưu game, xử lý UI/UX | một phần… |
+| Thái độ | Đam mê chơi và làm game, chủ động học hỏi, cầu tiến… | Tư duy logic tốt, tỉ mỉ, làm việc nhóm hiệu quả… | Tinh thần trách nhiệm, chủ động, chịu được áp lực… | …rồi |
+| Công cụ | Unity Engine, Git, Visual Studio… | Unity/C++ Engine nội bộ, SVN/Git, Xcode… | …Unity Engine, Git, JIRA | chưa… |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | VNG Corporation… | Junior Unity Game Developer… | …https://vng.com.vn/careers/unity-dev | 20/10/2026 |
+| 2 |Gameloft Vietnam… | C++ / Unity Game Programmer… | https://careers.gameloft.com/job/programmer… | 22/10/2026 |
+| 3 | Amanotes… | Game Developer (Unity)… | https://amanotes.com/careers/game-dev … | 22/10/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
