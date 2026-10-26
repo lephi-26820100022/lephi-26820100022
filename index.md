@@ -2,13 +2,13 @@
 title: Hồ sơ nhập ngành
 ---
 
-# Nguyễn Văn An
+# Lê Hồng Phi
 
 <!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính · Đang định hướng trở thành Unity Game Developer chuyên sâu về kiến trúc phần mềm và tối ưu hóa hiệu nănng…
 
 - … việc đã làm số 1, kèm một con số → [career.md](career.md)
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
