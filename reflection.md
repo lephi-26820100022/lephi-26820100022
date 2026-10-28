@@ -35,6 +35,8 @@ Tôi sẽ viết lại trang …, theo cách …
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: …
+Đường dẫn: https://drive.google.com/open?id=1u7HgvNGLKgaK-BKueuHg4gJRhUV-__KqROvejSAYmMc&usp=drive_copy
+
+…
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
