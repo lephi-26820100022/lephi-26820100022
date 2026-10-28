@@ -10,12 +10,12 @@ title: Nhìn lại học kỳ
 ## Tôi đã thay đổi thế nào
 
 Đọc lại trang Bài 1 rồi trả lời: điều gì tôi tin hồi đó mà giờ không còn tin nữa?
-
+Hồi đó tôi nghĩ rằng AI luôn trả lời đúng các câu hỏi mình đưa ra. Nhưng khi học môn KHMT thì tôi thấy bản thân phải luôn là người chủ động tìm hiểu, phải sử dụng AI theo ý mình chứ không để AI dẫn dắt
 …
 
 ## Trang tôi làm tốt nhất
-
-…, vì …
+tôi nghĩ nhưng thứ mình đưa lên đây chỉ ở mức tạp ổn
+…, vì Chính bản thân tôi chưa từng làm profile nào ở mức chuyên nghiệp cả nhưng bản thân tôi sẽ cố gắng hoàn thiện những thiếu sót và luôn cập nhận những thứ mà bản thân làm để đưa lên github…
 
 ## Trang tôi làm cho xong
 
