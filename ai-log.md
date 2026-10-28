@@ -22,7 +22,9 @@ title: Nhật ký dùng AI
 1. …Bịa đặt yêu cầu tuyển dụng (Bài 1): AI tự động thêm tiêu chuẩn "bắt buộc 3 năm kinh nghiệm thiết kế kiến trúc Microservices và chứng chỉ AWS" vào vị trí tuyển dụng Junior/Intern Software Engineer.
 
 Kiểm chứng: Mở file ảnh chụp màn hình tin tuyển dụng gốc của FPT Software và VNG, thực tế nhà tuyển dụng chỉ yêu cầu vững OOP, C# / Java cơ bản và có đồ án thực tế.
+
 2. …Khẳng định sai về cơ chế vòng lặp trong Unity Engine (Bài 5): AI khẳng định "Hàm FixedUpdate() phụ thuộc trực tiếp vào FPS của máy tính, máy lag thì FixedUpdate() chạy chậm lại tương ứng".Kiểm chứng: Đọc Unity Documentation (Order of Execution for Event Functions), FixedUpdate() chạy theo chu kỳ thời gian cố định (Fixed Timestep, mặc định $0.02\text{s}$), hoàn toàn độc lập với tốc độ dựng hình (FPS) của máy tính.
+
 3. Tuyệt đối hóa kiến thức quản lý bộ nhớ C# (Bài 5): AI khẳng định "Kiểu dữ liệu struct trong C# là Value Type nên LUÔN LUÔN được lưu trên Stack".
 
 Kiểm chứng: Tra cứu tài liệu Microsoft C# Docs, nếu một struct khai báo làm trường (field) bên trong một class, nó sẽ được lưu trên Heap cùng với đối tượng chứa nó chứ không nằm trên Stack.…
