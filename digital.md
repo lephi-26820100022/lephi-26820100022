@@ -12,6 +12,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 Khi gõ họ và tên đầy đủ kèm tên trường đại học trên Google Search (ở chế độ ẩn danh), kết quả trả về hiển thị tài khoản Facebook cá nhân, trang GitHub cá nhân, danh sách sinh viên trên cổng thông tin của khoa và một số bài đăng cũ từ thời THPT.
+
 Đánh giá: Không có thông tin nhạy cảm (như CMND/CCCD, số điện thoại, địa chỉ nhà) bị rò rỉ. Tuy nhiên, vết chân số hiện tại chưa làm nổi bật được hình ảnh của một Game Developer: trang GitHub còn ít dự án công khai, chưa có trang cá nhân chia sẻ sản phẩm game (Itch.io/DevLog) và các tài khoản mạng xã hội vẫn còn lưu nhiều bài viết ngô nghê từ thời trung học.
 …
 
