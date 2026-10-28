@@ -25,7 +25,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
+| 1 | Vận hành thiết bị và phần mềm |  | … |
 | 2 | Năng lực thông tin và dữ liệu | … | … |
 | 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
 | 4 | Sáng tạo nội dung số | … | … |
