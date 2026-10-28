@@ -36,4 +36,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: …@…*
+*Cập nhật lần cuối: … · Liên hệ: …hanzophi8@gmail.com…*
