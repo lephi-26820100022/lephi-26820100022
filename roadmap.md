@@ -99,7 +99,7 @@ title: Bản đồ học tập bốn năm
 | 8|	CMP1049|	Khai thác dữ liệu|	3|
 | 8|	AIT123|	Mô hình ngôn ngữ lớn|	3|
 | 8|	COS165|	Hệ thống gợi ý|	3|
-| 8|	AIT1008	Phân tích ảnh và thị giác máy tính|	3|
+| 8|	AIT1008|	Phân tích ảnh và thị giác máy tính|	3|
 | 8|	AIT126|	Lập trình song song|	3|
 | 8|	COS4012|	Đồ án tốt nghiệp Khoa học máy tính|	9|
 | 8|	COS1010|	Cơ sở công nghệ chuỗi khối|	3|
