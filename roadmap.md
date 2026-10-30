@@ -50,7 +50,7 @@ title: Bản đồ học tập bốn năm
 | 3|	ENS192|	Phát triển bền vững|	3|
 | 3|	PHT313|	Vovinam 1|	2|
 | 3|	PHT314|	Vovinam 2|	2|
-| 4|	ENC123|	Anh ngữ 4|	3|
+| 4|	ENC123|	Anh ngữ 4|	3| 
 | 4|	CMP167|	Lập trình hướng đối tượng|	3|
 | 4|	CMP368|	Thực hành lập trình hướng đối tượng|	1|
 | 4|	COS129|	Điện toán đám mây|	3|
