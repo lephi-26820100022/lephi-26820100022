@@ -74,8 +74,8 @@ title: Bản đồ học tập bốn năm
 | 5|	POS106|	Chủ nghĩa xã hội khoa học|	2|
 | 5| AIT1001|	Cơ sở trí tuệ nhân tạo|	3|
 | 6|	CMP101|	Công nghệ phần mềm|	3|
-| 6|	CMP174	Bảo mật thông tin|	3|
-| 6|	AIT104|	Máy học|	3|
+| 6|	CMP174|		Bảo mật thông tin |	3|
+| 6|	AIT104|	Máy học |	3|
 | 6|	AIT306|	Thực hành máy học|	1|
 | 6|	AIT108|	Xử lý ảnh và ứng dụng|	3|
 | 6|	AIT307|	Thực hành xử lý ảnh và ứng dụng|	1|
