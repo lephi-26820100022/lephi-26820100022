@@ -30,7 +30,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 |---|---|---|---|---|
 
 | 1 | VNG Corporation… | Game Developer - Roblox… | https://career.vng.com.vn/tim-kiem-viec-lam/chi-tiet/6704-ctv-game-developer---roblox-vi … | 20/10/2026 |
+
 | 2 |Gameloft Vietnam… | Lập trình viên game cao cấp (C++)… | (https://www.gameloft.com/jobs/Senior%20Game%20Developer%20(C%2B%2B)-744000155452071)… | 22/10/2026 |
+
 | 3 | Amanotes… | [LiveOps Team] Game Product Lead… | (https://www.careers.amanotes.com/jobs/liveops-team-game-product-lead/9c9416dd-bff1-4cf8-a4a7-b11150e37526) … | 22/10/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
