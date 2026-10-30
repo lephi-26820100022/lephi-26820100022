@@ -111,29 +111,30 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
+- Kỳ nặng nhất là kỳ 8 …, vì …đây là kỳ cuối chứa đựng khối lượng kiến thức chuyên sâu và nặng ký nhất về trí tuệ nhân tạo, hệ thống gợi ý, lập trình song song cùng lúc với Đồ án tốt nghiệp (9 tín chỉ) và Thực tập tốt nghiệp (3 tín chỉ), đòi hỏi sinh viên phải dồn toàn lực để hoàn thành ra trường.
+- Môn Cấu trúc dữ liệu và giải thuật (COS120)… phải học trước môn môn Kỹ thuật lập trình (CMP164)… vì vì nền tảng tư duy về cấu trúc dữ liệu là cốt lõi để xây dựng các giải thuật tối ưu trước khi áp dụng vào việc thiết kế đối tượng và viết mã lệnh phức tạp.…
 - Kỳ … tôi để nhẹ vì …
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Học kỳ 1 có môn Lập trình nâng cao và được học ngay từ học kỳ đầu tiên vào đại học.
+- Bảng chương trình đào tạo thật ra ghi: Học kỳ 1 chỉ có môn Cơ sở lập trình (CMP1074) và Thực hành Cơ sở lập trình (CMP3075), chưa xuất hiện môn lập trình nâng cao.
+- Tôi sửa thành: Loại bỏ môn Lập trình nâng cao ở học kỳ 1 và giữ đúng tên môn chuẩn là Cơ sở lập trình theo đúng khung chương trình của HUTECH.
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Các môn lý luận chính trị như Triết học Mác - Lênin được xếp học toàn bộ vào năm nhất để lấy nền tảng.
+- Bảng chương trình đào tạo thật ra ghi:Môn Triết học Mác - Lênin được phân bố học ở học kỳ 7, trong khi các môn như Lịch sử Đảng Cộng sản Việt Nam nằm ở học kỳ 3 và Kinh tế chính trị Mác-Lênin nằm ở học kỳ 5
+- Tôi sửa thành: Sắp xếp lại đúng vị trí các môn chính trị theo đúng học kỳ thực tế trong khung chương trình đào tạo đã cung cấp.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Cung cấp toàn bộ danh sách mã môn, tên môn và học kỳ thô để nhờ AI tổng hợp và phân loại theo đúng định dạng 8 học kỳ.… |
+| **Hoài** |cĐối chiếu kỹ lưỡng vị trí của các môn đồ án tốt nghiệp, thực tập tốt nghiệp và khối lượng tín chỉ giữa các kỳ xem AI có bịa đặt hoặc sắp xếp sai lệch thời gian hay không. |
+| **Học** |Rút kinh nghiệm về quy luật phân bổ chương trình đại học: các môn đại cương và cơ sở ngành đi trước, chuyên sâu AI/Data và đồ án tốt nghiệp dồn về giai đoạn cuối khóa. |
+| **Hành** | Tự tay kiểm duyệt, chỉnh sửa lại vị trí chính xác của từng học phần theo đúng dữ liệu thực tế từ danh sách đã cho để hoàn thiện bảng 8 học kỳ hoàn chỉnh |
+
