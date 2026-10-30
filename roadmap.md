@@ -105,7 +105,7 @@ title: Bản đồ học tập bốn năm
 | 8|	COS1010|	Cơ sở công nghệ chuỗi khối|	3|
 | 8|	COS570|	Thực tập tốt nghiệp ngành khoa học máy tính|3|
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng: 173… tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
