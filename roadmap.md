@@ -110,29 +110,29 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 3…, vì có sự kết hợp của nhiều môn nền tảng chuyên ngành nặng tính tư duy và kỹ thuật như Lập trình hướng đối tượng, Cơ sở dữ liệu, Toán rời rạc, Học sâu cùng hàng loạt giờ thực hành đi kèm…
+- Môn nhập môn lập trình phải học trước môn Lập trình hướng đối tượng vì sinh viên cần nắm vững cú pháp cơ bản, biến, vòng lặp và hàm trước khi chuyển sang tư duy lập trình đối tượng
+- Kỳ 4 tôi để nhẹ hơn một chút để cân đối thời gian tập trung làm các đồ án tích hợp và nghiên cứu công nghệ lõi phục vụ hướng đi game/phần mềm.
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Học phần Học sâu (Deep Learning) nằm ở học kỳ cuối năm tư cùng với đồ án tốt nghiệp.
+- Bảng chương trình đào tạo thật ra ghi: Môn Học sâu (CMP1020) được xếp ngay từ học kỳ 3
+- Tôi sửa thành: Đưa môn Học sâu về đúng vị trí học kỳ 3 theo khung chương trình chuẩn…
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Các môn thực hành được gộp chung tín chỉ và học vào cuối tuần sát thời điểm thi kết thúc học phần.
+- Bảng chương trình đào tạo thật ra ghi: Các môn thực hành tách mã riêng biệt (ví dụ: AIT1106, AIT1107, AIT1109) đi song song hoặc nối tiếp ngay các học phần lý thuyết trong cùng học kỳ.
+- Tôi sửa thành: Phân tách rõ ràng mã môn lý thuyết và mã môn thực hành tương ứng vào từng học kỳ cụ thể
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | …Đưa ảnh chụp màn hình chương trình đào tạo của trường để nhờ AI trích xuất danh sách môn học, mã môn và số tín chỉ theo từng học kỳ. |
+| **Hoài** | Kiểm tra kỹ lưỡng vị trí sắp xếp các môn học nặng (như Lập trình hướng đối tượng, Cơ sở dữ liệu, Học sâu) xem AI có đặt nhầm thứ tự tiên quyết hay không.… |
+| **Học** | Nắm bắt cách cấu trúc học phần chuẩn của khối ngành Công nghệ thông tin (luôn có môn lý thuyết đi kèm môn thực hành mã AIT).… |
+| **Hành** | Tự tay điều chỉnh lại các mã môn bị AI đặt sai học kỳ, đối chiếu trực tiếp với hình ảnh thực tế để hoàn thiện bảng phân bổ 8 học kỳ chính xác nhất.… |
