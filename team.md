@@ -7,7 +7,10 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:** Ganster… · **Thành viên:** Lê Hồng Phi
+                                     Bùi Trọng Hiếu
+                                     Ngô Thừa Chí
+                                     Huỳnh Minh Kha 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -51,7 +54,7 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
    Vì sao ai cũng nghĩ chỉ cần gom lại là xong? → …Vì nhóm thiếu kinh nghiệm làm việc theo quy trình tích hợp và quá tự tin vào phần việc cá nhân.
 5. Vì sao nhóm lại chủ quan và thiếu quy trình kiểm soát? → Trưởng nhóm và các thành viên chưa thiết lập tư duy "làm việc trên một hệ thống chung", thiếu vai trò Integrator (người kiểm soát tích hợp) và quy định kiểm tra chéo định kỳ từng ngày.… *(nguyên nhân gốc)*
 
-*Người viết phần này: Lê Hồng Phi…*
+*Người viết phần này: Ngô Thừa Chí…*
 
 ### 4. Ba giải pháp đã thử
 
@@ -63,7 +66,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | 2. Họp Online mỗi tối 30 phút để ghép nối phần việc đã làm trong ngày… | …Cả nhóm | 3 ngày… | Phát hiện lỗi xung đột ngay trong ngày, giảm thời gian thức đêm xuống còn 0 giờ.… | …Thành công |
 | 3. Đặt quy chuẩn cố định (Template/Mẫu chung) trước khi gõ chữ/gõ code… | Cả nhóm… | 4 ngày… | 90% các phần ghép lại ăn khớp ngay từ lần đầu tiên.… | Thành công… |
 
-*Người viết phần này: Bùi Trọng Hiếu…*
+*Người viết phần này: Huỳnh Minh Kha…*
 
 ### 5. Cẩm nang cho người sau
 
@@ -89,7 +92,7 @@ Mỗi task phải có 1 người chịu trách nhiệm chính (Single Owner), kh
 
 Việc khó hoặc quan trọng luôn có 1 người làm chính và 1 người phản biện/soát lỗi chéo.
 
-*Người viết phần này: Bùi Trọng Hiếu…*
+*Người viết phần này: Huỳnh Minh Kha…*
 
 ## 2. Cách đặt hạn cho nhau
 
@@ -127,7 +130,7 @@ Sau 24 giờ không lý do: Báo cáo giảng viên, gạch tên khỏi phần �
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…Trường hợp 1 (Bất đồng về ý tưởng): Dành 10 phút để 2 bên bảo vệ quan điểm bằng số liệu/dẫn chứng cụ thể. Sau đó cả nhóm bỏ phiếu theo đa số ($>50\%$).
+…Trường hợp 1 (Bất đồng về ý tưởng): Dành 10 phút để 2 bên bảo vệ quan điểm bằng số liệu/dẫn chứng cụ thể. Sau đó cả nhóm bỏ phiếu theo đa số 
 
 Trường hợp 2 (Tỷ lệ phiếu 50 - 50): Trưởng nhóm là người đưa ra quyết định cuối cùng và chịu trách nhiệm cho hướng đi đó.
 
@@ -149,7 +152,7 @@ Cách nhóm vượt qua: Sau 10 phút bình tĩnh cả hai đã chủ động t�
 
 Bài học rút ra: Không bao giờ tranh luận khi đang mệt mỏi/căng thẳng. Khi có sự cố, không hỏi "Tại sao bạn làm sai?" mà hãy bình tĩnh nói nhau
 
-*Người viết phần này: Bùi Trọng Hiếu…*
+*Người viết phần này: Ngô Thừa Chí…*
 
 ## Tôi đã làm việc với AI thế nào
 
