@@ -7,10 +7,12 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** Ganster… · **Thành viên:** Lê Hồng Phi
-                                     Bùi Trọng Hiếu
-                                     Ngô Thừa Chí
-                                     Huỳnh Minh Kha 
+**Nhóm:** Ganster… · **Thành viên:** | Tên | MSSV | 
+                                     |---|---|---|
+                                     | Bùi Trọng Hiếu |  | 
+                                     | Ngô Thừa Chí |  | 
+                                     | Huỳnh Minh Kha |  |  
+                                     |Lê Hồng Phi  |  |  
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
