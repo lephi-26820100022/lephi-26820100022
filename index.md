@@ -8,7 +8,9 @@ title: Hồ sơ nhập ngành
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · Đang định hướng trở thành Unity Game Developer chuyên sâu về kiến trúc phần mềm và tối ưu hóa hiệu nănng…
+Sinh viên năm nhất Khoa học máy tính ·"Tôi luôn tin rằng một tựa game hay là sự kết hợp hoàn hảo giữa nghệ thuật tương tác và sức mạnh tính toán bên dưới hệ thống."
+
+Chào bạn, tôi là Lê Hồng Phi, hiện là sinh viên ngành Khoa học Máy tính tại HUTECH. Với niềm yêu thích đặc biệt dành cho Game Development, tôi tập trung đi sâu vào phần "lõi" của máy tính — từ toán học, cấu trúc dữ liệu cho đến cách tối ưu từng khung hình (FPS) và bộ nhớ. Mục tiêu của tôi là trở thành một Game Developer chuyên nghiệp, tạo ra những sản phẩm mượt mà và giàu trải nghiệm
 
 - … việc đã làm số 1, kèm một con số → [career.md](career.md)
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
