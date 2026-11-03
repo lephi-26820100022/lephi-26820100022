@@ -18,9 +18,9 @@ title: Cẩm nang làm việc nhóm
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** "Sao sắp đến deadline rồi mà sản phẩm chưa ráp lại được, code/nội dung của từng đứa chạy riêng thì được mà ghép vô lại bị lỗi lung tung?"…
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** "Sao sắp đến deadline rồi mà sản phẩm chưa ráp lại được, nội dung của từng đứa chạy riêng thì được mà ghép vô lại bị lỗi lung tung?"…
 
-**Vấn đề thật (sau khi bóc):** Nhóm không gia tiếp chuẩn với nhau dẫn đến việc các thành viên tự làm theo tư duy cá nhân, khiến việc ghép nối bài/code bị đổ vỡ vào phút chót.…
+**Vấn đề thật (sau khi bóc):** Nhóm không gia tiếp chuẩn với nhau dẫn đến việc các thành viên tự làm theo tư duy cá nhân, khiến việc ghép nối bài bị đổ vỡ vào phút chót.…
 
 *Người viết phần này: Bùi Trọng Hiếu…*
 
@@ -32,7 +32,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 | Ngày | Số liệu đo được | Ghi chú |
 |---|---|---|
-| Ngày 1… | …0 lỗi | Các thành viên làm độc lập, chưa ai ghép bài/code.… |
+| Ngày 1… | …0 lỗi | Các thành viên làm độc lập, chưa ai ghép bài.… |
 | Ngày 2… | 2 lỗi nhẹ… | Bắt đầu nộp file lẻ, sai lệch font chữ và tên biến.… |
 | Ngày 3… | 5 lỗi xung đột… | Bắt đầu ghép phần 1 và phần 2, cấu trúc file không khớp.… |
 | Ngày 4… | 12 lỗi lớn… | Ghép toàn bộ bài; chương trình bị vỡ/bài viết bị trùng lặp nội dung.… |
